@@ -1,3 +1,4 @@
+What's upppp I'm a US dev dabbling in mostly graphics, IoT and full-stack dev who's pretty damn good with C/C++, Java, JS (looking to improve on some Kotlin, Python and TS)
 ![My github stats](https://github-readme-stats.vercel.app/api?username=BerkM125&hide=contribs&theme=tokyonight&show_icons=true&hide_border=true)
 <!--
 **BerkM125/BerkM125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

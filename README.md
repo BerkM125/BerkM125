@@ -1,5 +1,7 @@
 What's upppp I'm a US dev dabbling in mostly graphics, IoT and full-stack dev who's pretty good with C/C++, Java, JS (looking to improve on some Kotlin, Python and TS)
 
+# Stats
+=====
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=BerkM125&hide=contribs&theme=tokyonight&show_icons=true&hide_border=true)
 

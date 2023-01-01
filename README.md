@@ -1,20 +1,20 @@
-# What's upppp, I'm BerkM125 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBerkM125%2FBerkM125&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-## Technologies / Areas I'm Experienced In
+## Good With
 
  - 🔭 Computer Vision / Image Classification
 
- - 🖼️ Core Graphics / Game Dev
+ - 🖼️ Core Graphics + Game Dev
 
- - 🌐 IoT / Interfacing
+ - 🌐 IoT + Interfacing
 
- - 📚 Full-stack dev 
+ - 📚 Full-stack dev
+
+## Want To Get Into
+
+ - Deep Learning
+
+ - Wolfram Computing + Mathematica
  
-## Languages
-
-I'm good with C/C++, Java, JS (looking to improve on some Kotlin, Python and TS) 
-
-## GitHub Stats
+ - Robotics / Mechanics
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=BerkM125&hide=contribs&theme=tokyonight&show_icons=true&hide_border=false)
 

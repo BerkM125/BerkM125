@@ -1,5 +1,5 @@
 
-## Good With
+## Experienced In
 
  - 🔭 Computer Vision / Image Classification
 
@@ -9,7 +9,7 @@
 
  - 📚 Full-stack dev
 
-## Want To Get Into
+## Wanting To Get Into
 
  - Deep Learning
 

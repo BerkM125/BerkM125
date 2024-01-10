@@ -2,7 +2,7 @@
 
 ## 🚀 Technologies & Fields
 - **APIs I Really Like**: Landlab, OpenCV, OpenGL, OpenPose
-- **Development Fields I'm Experienced In**:
+- **Development Fields I'm Experienced In**
     - Fullstack 📚
     - IoT 🌐
     - Computer Vision 🔭
@@ -19,8 +19,7 @@
 - **Looking to Learn**: Deep Learning, Wolfram Lang, React + React Native, Next.js, MongoDB
 
 ## 🔧 Language Stack
-Here are the langs and frameworks I use the most:
-- **💻 Languages**: C, C++, Java, JavaScript, Python, HTML & CSS
+- **💻 Languages I Use The Most**: C, C++, Java, JavaScript, Python, HTML & CSS
 - **🛠️ Frameworks**: Node.js, Express.js, Electron, Bootstrap
 
 ## Stats...

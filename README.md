@@ -18,7 +18,7 @@
 - **Working On**: API development, Research / Scientific Programming, AI, Regression Analysis, Competitive Programming
 - **Looking to Learn**: Deep Learning, Wolfram Lang, React + React Native, Next.js, MongoDB
 
-## 🔧 Language Stack
+## 🧱 Language Stack
 - **💻 Languages I Use The Most**: C, C++, Java, JavaScript, Python, HTML & CSS
 - **🛠️ Frameworks**: Node.js, Express.js, Electron, Bootstrap
 

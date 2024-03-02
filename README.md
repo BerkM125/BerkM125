@@ -6,7 +6,7 @@
     - Fullstack 📚
     - IoT 🌐
     - Computer Vision 🔭
-    - Core Graphics 🎮
+    - Low Level Graphics 🎮
     - Desktop & Mobile App Development 🖥️
     - Web Development 🕸️
     - Embedded Systems ⚡

@@ -1,19 +1,5 @@
 # Hey, I'm BerkM 👋
 
-## 🚀 Technologies & Fields
-- **APIs I Really Like**: Landlab, OpenCV, OpenGL, OpenPose
-- **Development Fields I'm Experienced In**
-    - Fullstack 📚
-    - IoT 🌐
-    - Computer Vision 🔭
-    - Low Level Graphics 🎮
-    - Desktop & Mobile App Development 🖥️
-    - Web Development 🕸️
-    - Embedded Systems ⚡
-        - ESP8266-based boards
-        - Arduino
-        - Raspberry Pi
-
 ## 🌱 Current Work
 - **Working On**: API development, Research / Scientific Programming, AI, Regression Analysis, Competitive Programming
 - **Looking to Learn**: Deep Learning, Wolfram Lang, React + React Native, Next.js, MongoDB

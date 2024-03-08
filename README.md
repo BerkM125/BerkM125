@@ -1,6 +1,4 @@
-# Hey, I'm BerkM 👋
-
-## 🌱 Current Work
+## 🌱 Recent
 - **Working On**: API development, Research / Scientific Programming, AI, Regression Analysis, Competitive Programming
 - **Looking to Learn**: Deep Learning, Wolfram Lang, React + React Native, Next.js, MongoDB
 

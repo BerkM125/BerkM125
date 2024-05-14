@@ -3,8 +3,8 @@
 - **Working On**: Deep Learning, Wolfram Lang, React + React Native, Next.js
 
 ## 🧱 Language Stack
-- **💻 Languages I Use The Most**: C, C++, Java, JavaScript, Python, HTML & CSS
-- **🛠️ Frameworks**: Node.js, Express.js, Electron, Bootstrap, Mongo
+- **💻 Langs **: C, C++, Java, JavaScript, Python, HTML & CSS
+- **🛠️ Love These Frameworks**: Node.js, Express.js, Electron, Bootstrap, Mongo
 
 ## Stats...
 ![My github stats](https://github-readme-stats.vercel.app/api?username=BerkM125&hide=contribs&theme=tokyonight&show_icons=true&hide_border=false)

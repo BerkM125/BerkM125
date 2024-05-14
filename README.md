@@ -3,7 +3,7 @@
 - **Working On**: Deep Learning, Wolfram Lang, React + React Native, Next.js
 
 ## 🧱 Language Stack
-- **💻 Langs **: C, C++, Java, JavaScript, Python, HTML & CSS
+- **💻 Langs**: C, C++, Java, JavaScript, Python, HTML & CSS
 - **🛠️ Love These Frameworks**: Node.js, Express.js, Electron, Bootstrap, Mongo
 
 ## Stats...

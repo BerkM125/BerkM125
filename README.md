@@ -5,10 +5,7 @@
 ## 🧱 Language Stack
 - **💻 Langs**: C, C++, Java, JavaScript, Python, HTML & CSS
 - **🛠️ Love These Frameworks**: Node.js, Express.js, Electron, Bootstrap, Mongo
-
-## Stats...
-![My github stats](https://github-readme-stats.vercel.app/api?username=BerkM125&hide=contribs&theme=tokyonight&show_icons=true&hide_border=false)
-
+- 
 <!--**BerkM125/BerkM125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
